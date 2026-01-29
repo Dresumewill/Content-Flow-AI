@@ -1,0 +1,18 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "content-repurposer",
+  "compatibility_date": "2026-01-29",
+  "pages_build_output_dir": "./dist",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "content-repurposer-db",
+      "database_id": "local-dev-db"
+    }
+  ],
+  "vars": {
+    "APP_NAME": "ContentFlow AI",
+    "APP_URL": "http://localhost:3000"
+  }
+}
