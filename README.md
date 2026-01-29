@@ -7,6 +7,7 @@
 
 ## 🚀 Live Demo
 - **Sandbox URL**: [Access App](https://3000-ima7g7k9x2k1yv4aw8irw-c81df28e.sandbox.novita.ai)
+- **GitHub**: [https://github.com/Dresumewill/Content-Flow-AI](https://github.com/Dresumewill/Content-Flow-AI)
 
 ## ✅ Completed Features
 
